@@ -38,7 +38,7 @@ This project explores employee attrition trends, satisfaction levels, and salary
 
 ## 📊 Dashboard
 
-- [📊 Tableau Dashboard](https://public.tableau.com/app/profile/your-link)
+- [📊 Tableau Dashboard] https://public.tableau.com/app/profile/raghad.al.allan/viz/EmployeeHR/Attrition
 
 
   
