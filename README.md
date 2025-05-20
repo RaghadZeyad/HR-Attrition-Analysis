@@ -7,14 +7,18 @@ This project explores employee attrition trends, satisfaction levels, and salary
 📁 data/
   ├── hr_employee_data.csv
   └── hr-performance-rating-data.csv
+  
 📁 notebooks/
   ├── hr_attrition_eda_python.ipynb
   └── hr_attrition_sql.ipynb
+  
 📁 visuals/
   ├── salary-histo.png
   └── attrition-by-age-group.png
+  
 📁 datafolio/
   └── Project Datafolio.pptx
+  
 📁 report/
   └── Final Report.pptx
 
