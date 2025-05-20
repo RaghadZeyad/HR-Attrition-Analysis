@@ -40,5 +40,12 @@ This project explores employee attrition trends, satisfaction levels, and salary
 
 - [📊 Tableau Dashboard] https://public.tableau.com/app/profile/raghad.al.allan/viz/EmployeeHR/Attrition
 
+## License
+
+This project is licensed under the MIT License
+
+##Author 
+
+Raghad Zeyad
 
   
