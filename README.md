@@ -42,9 +42,9 @@ This project explores employee attrition trends, satisfaction levels, and salary
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 
-##Author 
+## Author 
 
 Raghad Zeyad
 
