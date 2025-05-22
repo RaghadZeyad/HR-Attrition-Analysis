@@ -22,6 +22,8 @@ This project explores employee attrition trends, satisfaction levels, and salary
 📁 report/
   └── Final Report.pptx
 
+⚠️ **Note:**  hr_attrition_sql.ipynb notebook uses a `.db` file stored in Google Drive.  
+It is not directly downloadable or runnable from GitHub
   
 ## 🧠 Key Insights
 
